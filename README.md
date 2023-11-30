@@ -1,4 +1,4 @@
-# ImageSlider
+# Modern Image-Slider
 
 Moderner Image-Slider zur Darstellung von Bildern - erstellt mit HTML, CSS, JavaScript.
 
